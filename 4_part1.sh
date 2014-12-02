@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Assignment 2 - Question 4 - Part 1"
 echo "Querying Stack Overflow"
-IN="/user/s1250553/ex2/task2/stackLarge.txt"
+IN="/user/s1250553/ex2/task3/stackLarge.txt"
 OUT="/user/s0925284/exc2/output/task_4_part1.out"
 MAP="task4mapper_part1.py"
 RED="task4reducer_part1.py"
